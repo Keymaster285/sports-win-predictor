@@ -1,4 +1,3 @@
-# sports-win-predictor
 # Sports Game Outcome Predictor
 
 ## Overview
